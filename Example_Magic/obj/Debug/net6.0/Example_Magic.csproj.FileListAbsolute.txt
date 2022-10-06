@@ -1,0 +1,15 @@
+D:\C+ GB\Example_Magic\bin\Debug\net6.0\Example_Magic.exe
+D:\C+ GB\Example_Magic\bin\Debug\net6.0\Example_Magic.deps.json
+D:\C+ GB\Example_Magic\bin\Debug\net6.0\Example_Magic.runtimeconfig.json
+D:\C+ GB\Example_Magic\bin\Debug\net6.0\Example_Magic.dll
+D:\C+ GB\Example_Magic\bin\Debug\net6.0\Example_Magic.pdb
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\Example_Magic.csproj.AssemblyReference.cache
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\Example_Magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\Example_Magic.AssemblyInfoInputs.cache
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\Example_Magic.AssemblyInfo.cs
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\Example_Magic.csproj.CoreCompileInputs.cache
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\Example_Magic.dll
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\refint\Example_Magic.dll
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\Example_Magic.pdb
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\Example_Magic.genruntimeconfig.cache
+D:\C+ GB\Example_Magic\obj\Debug\net6.0\ref\Example_Magic.dll
